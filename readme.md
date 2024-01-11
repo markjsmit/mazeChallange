@@ -47,4 +47,4 @@ For example: scoring based on multiple runs where the fastest or the avarage run
 ## Have fun
 
 Enjoy the challange of building your own algorithm.
-And feel free to contribute your algorithm to this repo, so more examples will be available. 
+And feel free to contribute your algorithm or mazes to this repo, so more examples will be available. 
