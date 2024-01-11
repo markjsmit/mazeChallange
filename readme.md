@@ -19,7 +19,7 @@ A new algorithm can be added by creating a new file in the algorithms folder.
 This file needs to export a createAlgorithm function which returns 2 functions:
 
 * init({getStartPos, getFinish, getWidth, getHeight})
-* async step({canGoUp, async goUp, canGoDown, async goDown, canGoLeft, async goLeft, canGoRight, async goRight}):
+* step({canGoUp, async goUp, canGoDown, async goDown, canGoLeft, async goLeft, canGoRight, async goRight}):
   goUp | goDown | goLeft | goRight
 
 The init function will only run once at the start of the maze.
